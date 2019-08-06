@@ -1,0 +1,76 @@
+html,
+body,
+div,
+span,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+textarea,
+ul,
+li,
+ol,
+li {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 14px;
+  // color: #0e0d0d;
+}
+
+body,
+html {
+  min-width: 320px;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  columns: #0e0d0d;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-wrap {
+  flex-direction: column
+}
+
+.flex-con {
+  flex: 1;
+}
+
+.flex-vcenter {
+  align-items: center
+}
+
+.align-center {
+  text-align: center
+}
+
+.align-r {
+  text-align: right
+}
+
+.align-l {
+  text-align: left;
+}
+
+.margin-center {
+  margin: 0 auto;
+}
+
+.wh100 {
+  width: 100%;
+  height: 100%;
+}
