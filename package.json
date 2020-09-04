@@ -17,7 +17,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.6.3",
     "iview": "^3.3.3",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "sass-loader": "^6.0.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
